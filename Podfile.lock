@@ -1,0 +1,20 @@
+PODS:
+  - LocationManagerSwift (1.1.3)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - LocationManagerSwift (~> 1.1)
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - LocationManagerSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LocationManagerSwift: b3d520b26788f5c2213bfd6a8699967937a81f58
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: b16255955f09bcc691d5c1a7c2edcdeb96db273a
+
+COCOAPODS: 1.11.2
